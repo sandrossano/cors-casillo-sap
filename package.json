@@ -29,7 +29,7 @@
   ],
   "dependencies": {
     "http-proxy": "1.18.1",
-    "proxy-from-env": "0.0.1"
+    "proxy-from-env": "1.1.0"
   },
   "devDependencies": {
     "coveralls": "^2.11.6",
